@@ -1,1 +1,1 @@
-# tp_s2_i2_equipo
+# tp_so_i2_equipo
