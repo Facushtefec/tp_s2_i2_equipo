@@ -2,3 +2,5 @@ Delvalle Juan
 Shtefe Facundo
 Gonzalez Ignacio
 
+A- Git pull.
+B- Si.
