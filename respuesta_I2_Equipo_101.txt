@@ -4,3 +4,5 @@ Gonzalez Ignacio
 
 A- Git pull.
 B- Si.
+C- Sí, es posible. siempre y cuando haya sido el ultimo en subir los cambios al repo
+No,lo bueno de git está diseñado para integrar los cambios nuevos con los que ya tiene en la máquina de manera segura.
