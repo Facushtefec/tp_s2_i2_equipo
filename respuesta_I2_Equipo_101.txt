@@ -1,8 +1,16 @@
 Delvalle Juan
-Shtefe Facundo
+Shtefec Facundo
 Gonzalez Ignacio
 
 A- Git pull.
 B- Si.
 C- Sí, es posible. siempre y cuando haya sido el ultimo en subir los cambios al repo
-No,lo bueno de git está diseñado para integrar los cambios nuevos con los que ya tiene en la máquina de manera segura.
+D-No,lo bueno de git está diseñado para integrar los cambios nuevos con los que ya tiene en la máquina de manera segura.
+E_ Git clone " Url del repo"
+git add .
+git commit -m "Xd"
+git push
+Siempre al empezar a hacer algo hay q hacer un git pull para actualizar el repo y luego denuevo
+git add .
+git commit -m "Xd"
+git push
